@@ -1,0 +1,171 @@
+ body {
+  background-image:url(image/background.jpg);
+  background-repeat: no-repeat;
+  
+  background-attachment: fixed;
+ }
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.fp-caption{
+  color: red;
+  font-size: 30px;
+
+}
+#btn{
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+#lil{
+
+  color: white;
+  font-size:16px;
+}
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: #111;
+}
+ul{
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.signin{
+  align: right;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 50%; 
+    min-height: 50%;
+}
+
+.video {
+  position: fixed;
+  top: 50%; left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.fp-caption{
+  color: red;
+  font-size: 30px;
+
+}
+#btn{
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+#lil{
+
+  color: white;
+  font-size:16px;
+}
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: #111;
+}
+ul{
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.signin{
+  align: right;
+}
+
+ .log{
+  position: center;
+ }
+ input[type=text], input[type=password] {
+    width:200px;
+    height:30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+ button {
+    background-color: #000;
+    color: white;
+    padding: 14px 35px;
+    margin: auto;
+    margin-left: 150px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    opacity: 0.8;
+}
+
+
+.log {
+  margin: auto;
+  margin-top: 10%;
+  width: 400px;
+  height: 250px;
+    padding:10px;
+    border: 1px solid white;
+     box-shadow: 5px 10px #000;
+  background-color: gray;
+}
+.cont{
+  margin-left:30px;
+  margin-top:30px;
+
+}
+.koko{
+  margin-right: 10px;
+  color: white;
+}
